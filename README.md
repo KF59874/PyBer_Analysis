@@ -31,12 +31,16 @@ The above graph shows how the three different city types performed based on the 
 
 ## 3. Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
+### Rural Areas
 As shown in the above graph *Total Fares by City Type*, there exists a small demand for rides in rural aras. This is due to the fact that rural areas are spread out and because there is limitation of availibility due to the small amount of drivers in the area. With natural supply and demand, the fare rates per ride and driver tend to therefore be higher, making it again less desirable for customers to utilize ride-sharing in rural areas. 
 
+### Suburban Cities
 Suburban cities, though they may not be performing as well as urban cities, still contribute close to 30% ($19,356.33) to the total revenue for all cities types combined ($63,538.64). The suburban cities charge higher for average fare per driver and ride, making it more desirable for drivers to onboard the ride-sharing company.
 
+### Urban Cities
 Urban cities, though they provide lower average fares per driver and ride, have the highest amount of total rides and total drivers, and total revenue ($39,854.38). The supply of drivers however, far outweighs the demand of customers in urban cities, creating more drivers than total rides, and thus lowering the average fare per ride and driver significantly. 
 
+### Summary of Findings and Recommended Point of Focus
 Given the analysis for the ride-sharing data, I would recommend for the company to focus on expanding their services in the suburban cities, seeing as here, there were more total rides than total drivers. This indicates that each driver had more than one ride scheduled. The demand for ride-sharing is healthier here than in urban cities. Urban cities generated more total revenue than suburban areas between January to April, however they already have more drivers than total rides available. The urban market will continue to generate revenue at the same rate, as the graph showed. The suburban area in comparison has the most room to be established. This is proven by the average fare per ride in the graph, growing at the end of April. The rural area should not be a point of focus, seeing as this market offers the least amount of revenue and does not have a lot of demand from customers in comparison to the other city types. 
 
 
