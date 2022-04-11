@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## 1. Overview of the analysis: Explain the purpose of the new analysis.
-The data from a ride-sharing company has been analysed to determine what how ride-sharing companies perform depending on the type of city they are operating in. The different city types included: urban, suburban and rural cities.
+The data from a ride-sharing company has been analysed to determine how ride-sharing companies perform depending on the type of city they are operating in. The different city types included: rural, suburban and urban cities.
 
 ## 2. Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
