@@ -35,7 +35,7 @@ The cities were furthermore also analysed based on the time of year. The graph b
 
 The above graph shows how the three different city types performed based on the time of year. Fare prices in rural areas averaged below $500 USD, with April having the highest fare amount. Urban and suburban cities both started the year off with gradual growth and had their highest fares in late February, reaching $2500 and close to $1500 respectfully. Urban cities then continued to have dips and growths, and had dropped at the end of April to roughly their starting point at about $1600 as in January. Suburban cities after their growth, dropped again and plateaued for the most part, with fares remaining at roughly $1250 throughout April, ending the period at a higher fare rate than when they started in January.
 
-## 3. Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## 3. Summary
 
 ### Rural Areas
 As shown in the above graph *Total Fares by City Type*, there exists a small demand for rides in rural aras. This is most likely due to the fact that rural areas are spread out. There is also a limitation of availibility due to the small amount of drivers in the area. With natural supply and demand, the fare rates per ride and driver tend to therefore be higher, making it again less desirable for customers to utilize ride-sharing in rural areas. 
